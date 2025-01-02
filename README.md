@@ -47,16 +47,8 @@ I'm starting from **scratch** and aim to master web development from **basic HTM
 ## 🎯 **Goals**
 - 📅 **Consistency:** Commit to daily progress.  
 - 🎓 **Mastery:** Beginner to job-ready in 12 months.  
-- 📸 **Share:** Post my learnings on [Instagram](https://www.instagram.com/).  
+- 📸 **Share:** Post my learnings on instagram soon....
 
----
-
-## 📂 **Repository Structure**
-```plaintext
-📦 my-web-dev-journey
-├── 📁 Phase1_HTML_CSS
-│   ├── 📄 index.html
-│   ├── 📄 styles.css
 │   └── 📝 notes.md
 ├── 📁 Phase2_JavaScript
 ├── 📁 Phase3_AdvancedFrontend
